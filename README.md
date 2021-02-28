@@ -6,3 +6,7 @@ This is my portfolio page. It is designed to showcase web pages that I have desi
 Beneath my initial photograph are three buttons designed to take the user to that section of the page that the buttons corralate with.  This is to provide seemless navigation throughout the page.  
 
 While my first assignment web page is the only work that I am showcasing now, as at this point it is the only web page that I have created, I inted to add more projects as time goes on.  
+
+The live web page is available to view here:
+
+https://jdavid337.github.io/PROFESSIONAL-PORTFOLIO/
