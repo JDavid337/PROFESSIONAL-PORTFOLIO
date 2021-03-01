@@ -61,15 +61,19 @@ nav {
     color: darkkhaki;
 }
 
+h2 {
+    text-align: center;
+}
+
 /* I use Time New Romans for clarity purposes and professional style
 */
-h2 {
+h3 {
     font-family: 'Times New Roman', Times, serif;
 }
 
 /* This is to make full use out of both sides of the page
 */
-h2, aside {
+h3, aside {
     background-color: lightslategray;
     width: fit-content;
     padding-left: 50rem;
