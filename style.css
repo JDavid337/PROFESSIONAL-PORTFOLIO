@@ -65,15 +65,13 @@ h2 {
     text-align: center;
 }
 
-/* I use Time New Romans for clarity purposes and professional style
-*/
-h3 {
-    font-family: 'Times New Roman', Times, serif;
+.myInfo {
+    text-align: center;
 }
 
 /* This is to make full use out of both sides of the page
 */
-h3, aside {
+/*h3 {
     background-color: lightslategray;
     width: fit-content;
     padding-left: 50rem;
@@ -81,11 +79,19 @@ h3, aside {
     font-style: italic;
     display: flex;
     justify-content: space-evenly;
-}
+}*/
 
 /* This is for my contact info at the footer
 */
 .text-center {
     text-align: center;
+}
+
+.floatRight {
+    float: right;
+}
+
+.floatLeft {
+    float: left;
 }
 
