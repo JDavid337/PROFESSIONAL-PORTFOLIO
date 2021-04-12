@@ -27,6 +27,10 @@ nav {
     display:flex;
 }
 
+h1 .text-center {
+    color:yellow;
+}
+
 /* Inserted buttons that guide users to their correlating sections of the web page
 */
 .buttons {
@@ -52,7 +56,7 @@ nav {
 /* This gives the buttons their color
 */
 .btn1,.btn2,.btn3{
-    color:darkgrey
+    color:yellow;
 }
 
 /* This is what the buttons look like when you hover a cursor over them
@@ -83,6 +87,22 @@ h2 {
 
 /* This is for my contact info at the footer
 */
+
+.card {
+    margin:0 auto;
+    float:none;
+    margin-bottom: 10px;
+}
+
+/* .card img {
+    height: 100px; 
+    width: 150px;
+} */
+
+h4 {
+    text-align: center;
+}
+
 .text-center {
     text-align: center;
 }
@@ -95,3 +115,9 @@ h2 {
     float: left;
 }
 
+.card-img {
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 350px;
+}
